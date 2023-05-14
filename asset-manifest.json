@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iko2000/To-do-application/static/css/main.a920829f.css",
+    "main.js": "/iko2000/To-do-application/static/js/main.d54dd4d5.js",
+    "static/media/Rectangle 2.png": "/iko2000/To-do-application/static/media/Rectangle 2.df65c1a1b060a87b2ce7.png",
+    "static/media/SpaceMono-Bold.ttf": "/iko2000/To-do-application/static/media/SpaceMono-Bold.2d0dbf42750207f78ffa.ttf",
+    "index.html": "/iko2000/To-do-application/index.html",
+    "main.a920829f.css.map": "/iko2000/To-do-application/static/css/main.a920829f.css.map",
+    "main.d54dd4d5.js.map": "/iko2000/To-do-application/static/js/main.d54dd4d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a920829f.css",
+    "static/js/main.d54dd4d5.js"
+  ]
+}
