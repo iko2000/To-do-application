@@ -63,6 +63,7 @@ code {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
   }
   .logo {
     width: 90%;
@@ -70,6 +71,12 @@ code {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+  .list {
+    margin-top: 10px;
+  }
+  .mainDiv {
+    width: 98%;
   }
 
 }
